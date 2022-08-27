@@ -4,8 +4,8 @@ You were trying to find an aspiring young developer? Walked right into my GitHub
 
 Computer Science Major at [Arizona State University](https://www.asu.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmykhaylov&hide=jupyter%20notebook&hide_border=true&langs_count=6&layout=compact)
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=mmykhaylov&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemykhaylov&hide=jupyter%20notebook&hide_border=true&langs_count=6&layout=compact)
+![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=mikemykhaylov&show_icons=true&hide_border=true)
 
 ## 💻 My web projects usually work on...
 
