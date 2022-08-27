@@ -45,7 +45,7 @@ Computer Science Major at [Arizona State University](https://www.asu.edu). Tech 
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
 </p>
 
-## ... 📚 and I would love to learn...
+## ... 📚 and I'm currently learning...
 
 <p>
 <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white" />
