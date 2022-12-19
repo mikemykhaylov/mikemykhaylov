@@ -1,13 +1,23 @@
-# Hey you, you're finally awake 🖖
+# Hey you, you're finally awake! I'm Michael 🖖
 
-You were trying to find an aspiring young developer? Walked right into my GitHub profile. Hi, I'm Michael Mykhaylov, Full-Stack developer and aspiring Data Scientist from <img src="./src/ukraine.png" width="13"/> Ukraine currently living in <img src="./src/united-states.png" width="13"/> USA.
+NOW
 
-Computer Science Major at [Arizona State University](https://www.asu.edu). Tech enthusiast with a neverending love for books, reading, chess, cycling and coffee
+- 📚 Preparing for my Summer 2023 internship at Palantir 
+- 🎨 Learning Figma and designing my website
+- 📙 Exploring Svelte framework web development
+
+BIO
+
+- 🏛️ Computer Science @ Arizona State University ☀️
+- 🐦 Ex-Data Scientist intern @ Twitter
+- 🕸️ Two years of full-stack web development 
+- 📡 RFID and cyberpunk enthusiast
+- ☕️ Proper coffee preacher
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikemykhaylov&hide=jupyter%20notebook&hide_border=true&langs_count=6&layout=compact)
 ![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=mikemykhaylov&show_icons=true&hide_border=true)
 
-## 💻 My web projects usually work on...
+## 🕸️ My web projects usually work on...
 
 <p>
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
@@ -48,14 +58,14 @@ Computer Science Major at [Arizona State University](https://www.asu.edu). Tech 
 ## ... 📚 and I'm currently learning...
 
 <p>
-<img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-FF6F00?logo=tensorflow&logoColor=white" />
-<img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white" />
-<img alt="CockroachDB" src="https://img.shields.io/badge/-CockroachDB-6933FF?logo=cockroachlabs&logoColor=white" /></p>
+<img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" />
+<img alt="Tauri/Rust" src="https://img.shields.io/badge/-Tauri%2FRust-000000?logo=tauri&logoColor=white" />
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" /></p>
 
 ### 📬 Let's get to know each other
 
 - StackOverflow: [Michael Mykhaylov](https://stackoverflow.com/users/12770693/michael-mykhaylov)
-- GitHub: [mmykhaylov](https://github.com/mmykhaylov)
-- LinkedIn: [Michael Mykhaylov](https://www.linkedin.com/in/mmykhaylov/)
+- GitHub: [mikemykhaylov](https://github.com/mikemykhaylov)
+- LinkedIn: [Michael Mykhaylov](https://www.linkedin.com/in/mikemykhaylov/)
 - Website: coming soon...
 - E-mail: [mikemikhailov2003@gmail.com](mailto:mikemikhailov2003@gmail.com)
