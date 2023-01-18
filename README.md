@@ -4,7 +4,7 @@ NOW
 
 - 📚 Preparing for my Summer 2023 internship at Palantir 
 - 🎨 Learning Figma and designing my website
-- 📙 Exploring Svelte framework web development
+- 📙 Exploring Astro framework web development with Svelte
 
 BIO
 
