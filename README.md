@@ -2,9 +2,9 @@
 
 NOW
 
-- 📚 Preparing for my Summer 2023 internship at Palantir 
-- 🎨 Learning Figma and designing my website
-- 📙 Exploring Astro framework web development with Svelte
+- 📚 Busy interning at Palantir 
+- 🦀 Learning Rust and setting up my CLI environment
+- 🤖 Reading Neuromancer
 
 BIO
 
@@ -23,7 +23,7 @@ BIO
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?logo=react&logoColor=white" />
 <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" /> 
-<img alt="Apollo" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?logo=apollo-graphql&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?logo=apollo-graphql&logoColor=white" />
 <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" />
 <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white" /> 
 <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white" />
@@ -58,9 +58,8 @@ BIO
 ## ... 📚 and I'm currently learning...
 
 <p>
-<img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white" />
-<img alt="Tauri/Rust" src="https://img.shields.io/badge/-Tauri%2FRust-000000?logo=tauri&logoColor=white" />
-<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white" /></p>
+<img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" /></p>
 
 ### 📬 Let's get to know each other
 
