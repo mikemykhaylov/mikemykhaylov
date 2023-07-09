@@ -2,7 +2,7 @@
 
 NOW
 
-- 📚 Busy interning at Palantir 
+- 📚 Busy interning at Palantir (and learning Go along the way)
 - 🦀 Learning Rust and setting up my CLI environment
 - 🤖 Reading Neuromancer
 
@@ -59,7 +59,9 @@ BIO
 
 <p>
 <img alt="Neovim" src="https://img.shields.io/badge/-Neovim-57A143?logo=neovim&logoColor=white" />
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" /></p>
+<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
+<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
+</p>
 
 ### 📬 Let's get to know each other
 
