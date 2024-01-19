@@ -2,9 +2,9 @@
 
 NOW
 
-- 📚 Learning Computer Networking
+- 📚 Writing Kernel Modules for the OS class
 - 💻 Grinding Leetcode
-- 🤖 Reading Count Zero
+- 🏜️ Reading Dune
 
 BIO
 
