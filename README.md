@@ -2,7 +2,7 @@
 
 NOW
 
-- 📚 Writing Kernel Modules for the OS class
+- 📚 Deploying Kubernetes the Hard Way
 - 💻 Grinding Leetcode
 - 🏜️ Reading Dune
 
