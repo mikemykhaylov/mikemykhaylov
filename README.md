@@ -20,11 +20,12 @@ BIO
 
 <p>
 <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+<img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
 </p>
 
