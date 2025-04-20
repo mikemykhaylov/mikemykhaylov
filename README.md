@@ -56,4 +56,4 @@ BIO
 - StackOverflow: [Michael Mykhaylov](https://stackoverflow.com/users/12770693/michael-mykhaylov)
 - GitHub: [mikemykhaylov](https://github.com/mikemykhaylov)
 - LinkedIn: [Michael Mykhaylov](https://www.linkedin.com/in/mikemykhaylov/)
-- E-mail: [mikemikhailov2003@gmail.com](mailto:mikemikhailov2003@gmail.com)
+- E-mail: mikemikhailov + 2003 \[at\] gmail.com
