@@ -2,7 +2,8 @@
 
 NOW
 
-- 🗽 Moving to the East Coast
+- 🪞 Building a Mid-century Modern haven at home
+- 💪 Beginning the gym arc
 - 🏜️ Reading Dune
 
 BIO
@@ -18,8 +19,8 @@ BIO
 ## ❤️ I love working with these technologies
 
 <p>
-<img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
 <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
 <img alt="WebAssembly" src="https://img.shields.io/badge/-WASM-654FF0?logo=webassembly&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
