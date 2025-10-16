@@ -3,7 +3,7 @@
 NOW
 
 - 🪞 Building a Mid-century Modern haven at home
-- 💪 Beginning the gym arc
+- 📸 Chasing the next shot
 - 🏜️ Reading Dune
 
 BIO
