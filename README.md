@@ -27,7 +27,6 @@ BIO
 <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
 <img alt="Openshift" src="https://img.shields.io/badge/-Openshift-EE0000?logo=redhatopenshift&logoColor=white" />
 <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white" />
-<img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-web-services&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white" />
 </p>
 
