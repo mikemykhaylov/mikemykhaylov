@@ -2,6 +2,7 @@
 
 NOW
 
+- 😪 Procrastinating on Nexilis side project
 - 🪞 Building a Mid-century Modern haven at home
 - 📸 Chasing the next shot
 - 🏜️ Reading Dune
